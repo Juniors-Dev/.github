@@ -86,8 +86,8 @@ if (teamReady) {
 ```
 
 ---
-📫 Contact / Links
-🌐 Website (Need building)
-💬 Discord (Not setup for drop ins yet)
-🧭 Contributing Guide (TBD)
-📄 Code of Conduct (TBD) just be nice!
+## 📫 Contact / Links
+- 🌐 Website (Need building)
+- 💬 Discord (Not setup for drop ins yet)
+- 🧭 Contributing Guide (TBD)
+- 📄 Code of Conduct (TBD) just be nice!
