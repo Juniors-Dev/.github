@@ -1,4 +1,4 @@
-# 👩‍💻 Junior.Dev
+# 👩‍💻 Juniors.Dev
 
 > Helping juniors gain real experience by working on real projects.
 
@@ -6,7 +6,7 @@ Welcome to **Junior.Dev** — a creative community and collaboration hub built t
 
 ---
 
-## 🌱 What is Junior.Dev?
+## 🌱 What is Juniors.Dev?
 
 We're a team-driven space for coders of all experience levels, with one mission:
 
