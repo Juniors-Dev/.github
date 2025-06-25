@@ -33,10 +33,19 @@ We **grow, build, and win together**.
 ---
 
 ## 🤝 Our Ethos
-- **No pressure** — life happens. Contribute what you can, when you can.
-- **Be respectful** — communicate honestly, especially if priorities shift.
-- **Team-first mindset** — if you commit to something, the team counts on you.
-- **Professional vibes** — clear communication, no judgment, and plenty of support.
+**Communication**
+We value clear, honest communication.
+There are no dumb questions — ever.
+It’s always better to ask than to stay stuck. Speak up, whether it’s a technical question, an idea, or feedback.
+
+**Transparency**
+Be open about what you're working on, what you're stuck on, or if you need to step back for a bit.
+We’re all learning — no one will judge you for needing help or being human.
+
+**Initiative**
+You don’t need permission to contribute.
+Start a thread, sketch an idea, build a prototype.
+Done is better than perfect, and trying is better than waiting.
 
   ---
 
